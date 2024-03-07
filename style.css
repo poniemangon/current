@@ -50,12 +50,35 @@ ul{
     list-style-type: none;
 }
 
+.d-flex {display: flex;}
+
+.space-btwn {justify-content: space-between;}
+
 .container {width: 80%; max-width: 1200px; margin: auto;}
 
 
 /* header */
 
+header {background-color: var(--black); padding: 20px 0;}
+
+
+
 /* header */
+
+/* banner */
+
+.banner .container {padding: 40px 0;}
+
+.banner h2 {font-size: 57px; font-weight: 500; color: var(--black);}
+
+.banner h4 {font-size: 25px; font-weight: 400; color: var(--black);}
+
+.banner .container img {border-radius: 10px; width: 600px;}
+
+.banner .container .col1 {max-width: 450px;}
+
+/* banner */
+
 footer{
     background-color: #1f1f1f;
     color: #e1e1e1;
@@ -161,10 +184,6 @@ footer ul{
     padding: 0px;
 }
 
-.form-div{
-    display: flex;
-    justify-content: flex-end;
-}
 
 
 @media (max-width: 992px){
