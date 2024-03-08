@@ -123,7 +123,7 @@ section.cards1{padding: 120px 0; background: #f7f7f7;}
     .cards1 .container-custom  .carousel  .card {margin: 10px 100px;}
     .cards1 .container-custom  .carousel  .card img {max-height: fit-content; padding: 0; height: 230px; min-height:auto}
     .cards1 .container-custom  .carousel  .card p {font-size: 14px;}
-    .cards1 .container-custom .carousel .card .btn-primary {font-size: 14px; padding: 10px 30px;}
+    .cards1 .container-custom .carousel .card .button-div .btn-primary {font-size: 14px; padding: 10px 30px;}
 }
 
 
