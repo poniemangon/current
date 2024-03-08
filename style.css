@@ -122,6 +122,8 @@ section.cards1{padding: 120px 0; background: #f7f7f7;}
     .cards1 .container-custom  .carousel  .card h4 {font-size: 20px; font-weight: 700; color: var(--black); margin-bottom: 0;}
     .cards1 .container-custom  .carousel  .card {margin: 10px 100px;}
     .cards1 .container-custom  .carousel  .card img {max-height: fit-content; padding: 0; height: 230px; min-height:auto}
+    .cards1 .container-custom  .carousel  .card p {font-size: 14px;}
+    .cards1 .container-custom  .carousel  .card button {font-size: 14px;}
 }
 
 
@@ -192,6 +194,8 @@ section.cards2{padding: 120px 0; background: white;}
 @media (max-width: 600px){
     .cards2 .container-custom  .carousel  .card {margin: 10px 20px;}
     .cards2 .container-custom  .carousel .card .image img {height: 230px; min-height:auto}
+    .cards2 .container-custom  .carousel  .card p {font-size: 14px;}
+    .cards2 .container-custom  .carousel  .card button {font-size: 14px;}
 }
 
 /*  cards 2 */
@@ -266,10 +270,11 @@ section.events{padding: 120px 0; background: var(--black); }
 @media (max-width: 800px){
     .events .container-custom .carousel2 .card .button-div i  {padding: 5px;}
     .events .container-custom .carousel2 .card .button-div p {font-size: 15px;}
-    .events .container-custom .carousel2 .card  p {font-size: 15px;}
+    .events .container-custom .carousel2 .card  p {font-size: 14px;}
     .events  .container-custom  .carousel2  .card h4 {font-size: 20px;}
     .events  .container-custom  .carousel2  .card {margin: 10px 5%;}
     .events .container-custom   .carousel2  .card .button-div {flex-direction: column; align-items: center;}
+    .events .container-custom   .carousel2  .card .button-div button {font-size: 14px;}
 }
 
 /*  events */
