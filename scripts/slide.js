@@ -31,7 +31,7 @@ $('.carousel2').slick({
     slidesToScroll: 2,
     responsive: [
     {
-        breakpoint: 1000,
+        breakpoint: 800,
         settings: {
             slidesToShow: 1,
             slidesToScroll: 1,
