@@ -286,14 +286,14 @@ section.events{padding: 120px 0; background: var(--black); }
     .events .container-custom .carousel2 {width: 640px; height: auto;}
     .events .container-custom {flex-direction: column;}
     .events .container-custom h2 {text-align: center; width: 100%;}
-    .events .container-custom   .carousel2  .card {height: 600px; }
+  
     .events .container-custom   .carousel2  .card .button-div {margin-top: auto;}
     .events .container-custom   .carousel2  .card .button-div p {width: 80%; }
 }
 
 
 @media (max-width: 800px){
-    .events  .container-custom  .carousel2 {width: 95%;   }
+    .events  .container-custom  .carousel2 {width: 95%; }
     .events .container-custom .carousel2 .card .button-div i  {padding: 5px;}
     .events .container-custom .carousel2 .card .button-div p {font-size: 15px;}
     .events .container-custom .carousel2 .card  p {font-size: 14px;}
